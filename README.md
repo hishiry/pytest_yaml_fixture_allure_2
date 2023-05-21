@@ -1,0 +1,1 @@
+# pytest_yaml_fixture_allure_2
