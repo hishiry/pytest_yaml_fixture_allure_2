@@ -1,0 +1,6 @@
+name_success: ["jinx"]
+name_fail: [",,"]
+volume_success: [1, 2, 98, 99]
+volume_fail: [0, 100, -100]
+power_success: [22]
+power_fail: [0, -1, 0.001, "e"]
